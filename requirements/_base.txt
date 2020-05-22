@@ -1,4 +1,5 @@
-Django>1.11.18,<2.0
+Django==1.11.19
+#>1.11.18,<2.0
 django-compressor==2.2
 celery==4.1.1
 django-celery-results==1.0.1
@@ -12,6 +13,7 @@ django-braces
 python-ooxml
 django-rest-swagger==2.1.0
 djangorestframework==3.5.3
+django-appconf==1.0.2
 Markdown==2.6.7
 django-filter==1.1.0
 Ebooklib==0.16
