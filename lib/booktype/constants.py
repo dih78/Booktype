@@ -159,7 +159,7 @@ BOOKTYPE_THEME_PLUGINS = {
 # define path to module where class ExportBook is located
 BOOKTYPE_EXPORT_CLASS_MODULE = 'booktype.apps.export.utils'
 
-EXPORT_WAIT_FOR = 90
+EXPORT_WAIT_FOR = 190
 
 # convert constants
 CONVERT_EDITOR_WIDTH = 898
